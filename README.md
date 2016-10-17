@@ -11,7 +11,7 @@ The Hypercycle social network was first launched on December 19, 2014. It is tru
 
 | ![alt tag](http://www.elgami.com/images/elgami-pattern.png) | ![alt tag](http://www.elgami.com/images/amarna-leggings.png) |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Artwork by ELGAMI: https://www.elgami.com/#/elgami | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
+| Artwork by ELGAMI: http://www.elgami.com/#/elgami | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
 
 # Table of Contents  
 * [0.0 Vision](#vision)
