@@ -9,7 +9,7 @@
 # Hypercycle - A Social Network for Custom Clothing Design
 The Hypercycle social network was first launched on December 19, 2014. It is truly the labor of my love. I hope you will have fun playing around, and perhaps create something totally new as a result. More to the point, Hypercycle is a social marketplace for custom product design. It is a fun, easy way to create t-shirts and more. Hypercycle users can upload their art, share their designs with their friends, and open their own storefronts to sell their creations to the world.
 
-| ![alt tag](https://www.elgami.com/images/elgami-pattern.png) | ![alt tag](https://www.elgami.com/images/amarna-leggings.png) |
+| ![alt tag](http://www.elgami.com/images/elgami-pattern.png) | ![alt tag](http://www.elgami.com/images/amarna-leggings.png) |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Artwork by ELGAMI: https://www.elgami.com/#/elgami | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
 
