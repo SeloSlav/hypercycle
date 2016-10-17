@@ -58,7 +58,7 @@ Believe it or not, it doesn't take a giant factory to offer this kind of platfor
 
 If you are interested in contributing to the main repository here, you could very well see your changes reflected in the Hypercycle demo app at https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en. Currently, monetization is limited to native Facebook advertisements and clothing purchases. Until further notice, 100% of all proceeds will be directly reinvested into Hypercycle software development. If you love Hypercycle and want to buy us some coffee, send some beans this a-way: https://www.paypal.me/hypercycle
 
-| ![alt tag](hypercycle-car.jpg) |
+| ![alt tag](https://www.elgami.com/images/hypercycle-car.jpg) |
 |-----------------------------------------------------------------------------|
 | Why stop at clothing? Hypercycle Supercar designed by <a href="https://ca.linkedin.com/in/parker-langlois-02592bb5">Parker Langlois</a> |
 
