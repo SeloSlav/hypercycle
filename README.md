@@ -50,7 +50,7 @@ The Hypercycle social network was first launched on December 19, 2014. It is tru
 <a name="vision"/>
 ## 0.0 Vision
 
-Although we may (in an alternate Universe, of course) enjoy pilfering your hard work, laughing maniacally and sipping Champagne Framboise from deep within our evil underground lair, that is simply not conducive to the long-term vision of Hypercycle. Hypercycle is committed to remaining **open-source forever**, with the ultimate aim of democratizing design the world over by **connecting everyone with makers** (Read more: http://www.elgami.com/blog/the-twenty-year-plan/).
+Although we may (in an alternate Universe, of course) enjoy pilfering your hard work, laughing maniacally and sipping Champagne Framboise from deep within our evil underground lair, that is simply not conducive to the long-term vision of Hypercycle. Hypercycle is committed to remaining **open-source forever**, with the ultimate aim of democratizing design the world over by **connecting everyone with makers**.
 
 Back in the day, c. 2001-02, having a dynamic blog with posts that could be generated from a simple GUI blew most people's minds. I make no exaggeration when I say that as a twelve year old I literally had the coolest website within a 5 mile radius. So what problem did Content Management Systems ultimately solve? Obviously, millions of people love to write, but at the time they lacked a medium with which to share their ideas effectively on the web without having to learn all sorts of boring and Byzantine code. Then came WordPress. Why should delivering a mobile storefront for personalized goods be any different? According to MIT's Smart Customization Group, mass customization will be a $37.5B industry by 2020 in the US alone, with 15% of clothing purchased by Americans being customized (Bain & Company, 2016); applying this same logic to worldwide B2C e-commerce apparel sales, a few crude assumptions and a rough estimate later, suggests a total market size of $294B (Statista, 2016).
 
@@ -68,7 +68,7 @@ Open-source is tantalizing for precisely the reason that you can never possibly 
 
 * ###### Statista. 2016. Statistics and Facts about Global E-Commerce. http://www.statista.com/topics/871/online-shopping/
 
-| ![alt tag](http://www.elgami.com/blog/wp-content/uploads/2015/10/blog-image-7.png) |
+| ![alt tag](http://www.elgami.com/images/kayla.png) |
 |-----------------------------------------------------------------------------|
 | Capri Leggings designed in Hypercycle™. Model: Kayla DeLancey (https://www.instagram.com/kayladelancey/), photographed by Bryon Adkins (https://www.instagram.com/badkinsmedia/) |
 
