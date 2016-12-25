@@ -62,13 +62,13 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
 
-Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:info@hypercycle.co">info@hypercycle.co</a>.
+Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:martin.erlic@gmail.com">martin.erlic@gmail.com</a>.
 
 <hr>
 
 <a name="vision"/>
 ## 3.0 Customers
 
-<a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">ELGAMI - Custom Clothing</a> — An Android application for custom user-generated clothing design
-<a href="http://www.droneskinz.com">DroneSkinz</a> — An Android application for custom user-generated racing drone skins (In development)
+* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">ELGAMI - Custom Clothing</a> — An Android application for custom user-generated clothing design
+* <a href="http://www.droneskinz.com">DroneSkinz</a> — An Android application for custom user-generated racing drone skins (In development)
 
