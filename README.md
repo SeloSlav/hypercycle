@@ -18,7 +18,7 @@ The Hypercycle social network was first launched on December 19, 2014. It is tru
 <a name="vision"/>
 ## 0.0 Vision
 
-Hypercycle vision is to democratize design the world over by **connecting everyone with makers**.
+Hypercycle's vision is to democratize design the world over by **connecting everyone with makers**.
 
 Back in the day, c. 2001-02, having a dynamic blog with posts that could be generated from a simple GUI blew most people's minds. I make no exaggeration when I say that as a twelve year old I literally had the coolest website within a 5 mile radius. So what problem did Content Management Systems ultimately solve? Obviously, millions of people love to write, but at the time they lacked a medium with which to share their ideas effectively on the web without having to learn all sorts of boring and Byzantine code. Then came WordPress. Why should delivering a mobile storefront for personalized goods be any different? According to MIT's Smart Customization Group, mass customization will be a $37.5B industry by 2020 in the US alone, with 15% of clothing purchased by Americans being customized (Bain & Company, 2016); applying this same logic to worldwide B2C e-commerce apparel sales, a few crude assumptions and a rough estimate later, suggests a total market size of $294B (Statista, 2016).
 
