@@ -56,10 +56,10 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Design Custom Products, i.e. T-shirts, Leggings, Skirts, etc.
 * Customizable User Profiles
 * Push Notifications
-* Search & Explore (Recommended Products)
+* Search & Explore (Recommended Products & Users)
 * Users can earn a commision by designing products and sharing them
-* All orders are stored in an organized customer database for manual order fulfillment
-* Additionally, orders are connected to Printful via the Printful Catalogue API to automatically fulfill orders from a specified range of pre-selected products with no manual work required
+* All purchase orders are stored in an organized customer database for manual order fulfillment
+* Additionally, orders can be connected to Printful (https://www.theprintful.com/) to automatically fulfill orders from a specified range of pre-selected products with no manual work required, i.e. for storefront owners who do not have their own manufacturing processes.
 
 * Available platforms: Web, Android
 * Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
@@ -72,6 +72,15 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 <a name="vision"/>
 ## 3.0 Customers
 
-* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">ELGAMI - Custom Clothing</a> — An Android application for custom user-generated clothing design
-* <a href="http://www.droneskinz.com">DroneSkinz</a> — An Android application for custom user-generated racing drone skins (In development)
+| ![alt tag](http://www.elgami.com/images/elgami-logo.png) |
+|-----------------------------------------------------------------------------|
+| Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
+
+* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — An Android application for custom user-generated clothing design
+
+| ![alt tag](https://cdn.shopify.com/s/files/1/0251/4837/t/3/assets/logo.png?11570305125073759710) |
+|-----------------------------------------------------------------------------|
+| Instagram: <a href="https://www.instagram.com/droneskinz">@droneskinz</a> |
+
+* <a href="http://www.droneskinz.com">DroneSkinz®</a> — An Android application for custom user-generated racing drone skins (In development)
 
