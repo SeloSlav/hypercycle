@@ -45,6 +45,9 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 <a name="team"/>
 ## 1.0 Team
 * <a href="https://www.github.com/santafebound">Martin Erlic</a>
+* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a>
+* <a href="http://www.parkerlanglois.net/">Parker Langlois</a>
+
 <hr>
 
 <a name="vision"/>
