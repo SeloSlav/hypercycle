@@ -58,6 +58,9 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Push Notifications
 * Search & Explore (Recommended Products)
 * Users can earn a commision by designing products and sharing them
+* All orders are stored in an organized customer database for manual order fulfillment
+* Additionally, orders are connected to Printful via the Printful Catalogue API to automatically fulfill orders from a specified range of pre-selected products with no manual work required
+
 * Available platforms: Web, Android
 * Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
