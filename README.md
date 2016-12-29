@@ -56,14 +56,14 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 Interested partners may license Hypercycle's social marketplace technology to enhance their own community's retail ecosystem and product offerings. Features include:
 
 * Social Network
-* Design Custom Products, i.e. T-shirts, Leggings, Skirts, etc.
-* Customizable User Profiles
-* Push Notifications
-* Search & Explore (Recommended Products & Users)
+* Design custom products, i.e. T-shirts, Leggings, Skirts, etc.
+* Customizable user profiles
+* Push notifications
+* Search & explore (Recommendation engine for products & users)
 * Users can earn a commision by designing products and sharing them
 * All purchase orders are stored in an organized customer database for manual order fulfillment
-* Additionally, orders can be connected to Printful (https://www.theprintful.com/) to automatically fulfill orders from a specified range of pre-selected products with no manual work required, i.e. for storefront owners who do not have their own manufacturing processes.
-
+* Additionally, orders can be connected to Printful (https://www.theprintful.com/) to automatically fulfill orders from a specified range of products with no manual work required, i.e. for storefront owners who do not have their own manufacturing printers/processes.
+* Some customers choose to sell "digital skins", or collections of purchasable patterns instead of supplying real products. This is another great revenue stream that requires no physical work.
 * Available platforms: Web, Android
 * Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
@@ -90,4 +90,3 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 | Instagram: <a href="https://www.instagram.com/droneskinz">@droneskinz</a> |
 
 * <a href="http://www.droneskinz.com">DroneSkinz®</a> — An Android application for custom user-generated racing drone skins (In development)
-
