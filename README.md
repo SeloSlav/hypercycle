@@ -76,7 +76,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
 
-* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — An Android application for custom user-generated clothing design
+* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — An Android application for custom user-generated clothing design. The fashion line focuses primarily on patterned leggings.
 
 | ![alt tag](https://cdn.shopify.com/s/files/1/0251/4837/t/3/assets/logo.png?11570305125073759710) |
 |-----------------------------------------------------------------------------|
