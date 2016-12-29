@@ -72,7 +72,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 <a name="vision"/>
 ## 3.0 Customers
 
-| ![alt tag](http://www.elgami.com/images/elgami-logo.png) |
+| ![alt tag](http://www.elgami.com/images/elgami-logo.png | width=300) |
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
 
