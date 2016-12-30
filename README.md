@@ -81,7 +81,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
 
-* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — An Android application for custom user-generated clothing design. The fashion line focuses primarily on patterned leggings.
+* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — Our own flapship application for demonstrating the Android app platform. Users can generate their own patterns, upload art or transfer photos to their favorite pair of leggings and more.
 
 ### 3.2 DroneSkinz®
 
