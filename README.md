@@ -44,9 +44,9 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 
 <a name="team"/>
 ## 1.0 Team
-* <a href="https://www.github.com/santafebound">Martin Erlic</a> - Self-taught Complexity theorist, algorithmic artist, Mad scientist
-* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> - Business development and mega sales guy, EV/VR fanatic
-* <a href="http://www.parkerlanglois.net/">Parker Langlois</a> - Design-obssessed product architect, Car enthusiast
+* <a href="https://www.github.com/santafebound">Martin Erlic</a> - Self-taught Complexity theorist, Software dev, algorithmic artist, Mad scientist
+* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> - Business development and mega sales guy, VR fanatic, Dreamer, Visionary
+* <a href="http://www.parkerlanglois.net/">Parker Langlois</a> - Design-obssessed product architect, Supercar enthusiast
 
 <hr>
 
