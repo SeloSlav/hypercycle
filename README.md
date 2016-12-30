@@ -68,7 +68,7 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
 
-Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:martin.erlic@gmail.com">martin.erlic@gmail.com</a>.
+Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:martin.erlic@gmail.com">martin.erlic@gmail.com</a>. Customizations beyond the scope of the current platform can be estimated after a free quotation. Whatever you need, we will work to understand your requirements and make it happen for you!
 
 <hr>
 
