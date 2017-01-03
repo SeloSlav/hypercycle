@@ -50,7 +50,7 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 
 <hr>
 
-<a name="vision"/>
+<a name="licensing"/>
 ## 2.0 Licensing
 
 Interested partners may license Hypercycle's social marketplace technology to enhance their own community's retail ecosystem and product offerings. Features include:
@@ -72,7 +72,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 
 <hr>
 
-<a name="vision"/>
+<a name="customers"/>
 ## 3.0 Customers
 
 ### 3.1 Elgami - Custom Clothing
