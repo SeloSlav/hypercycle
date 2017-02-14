@@ -46,7 +46,7 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 ## 1.0 Team
 * <a href="https://www.github.com/santafebound">Martin Erlic</a> (CEO) - Self-taught Complexity theorist, Software dev, algorithmic artist, Mad scientist, Visionary
 * <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> (COO) - Business development and mega sales guy, VR fanatic, Dreamer, Empire Builder
-* <a href="http://www.parkerlanglois.net/">Parker Langlois</a> (VP Design) - Design-obssessed product architect, Supercar enthusiast
+* <a href="http://www.parkerlanglois.net/">Parker Langlois</a> (VP Design) - Design-obssessed product architect, Supercar enthusiast, Designs yachts for a living (no hype)
 
 <hr>
 
