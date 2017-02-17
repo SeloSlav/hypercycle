@@ -45,7 +45,8 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 <a name="team"/>
 ## 1.0 Team
 * <a href="https://www.github.com/santafebound">Martin Erlic</a> (CEO) - Self-taught Complexity theorist, Software dev, algorithmic artist, Mad scientist, Visionary
-* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> (COO) - Business development and mega sales guy, VR fanatic, Dreamer, Empire Builder
+* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> (COO) - 
+development and mega sales guy, VR fanatic, Dreamer, Empire Builder
 * <a href="http://www.parkerlanglois.net/">Parker Langlois</a> (VP Design) - Design-obssessed product architect, Supercar enthusiast, Designs yachts for a living (no hype)
 
 <hr>
@@ -68,7 +69,7 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
 
-Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:martin.erlic@gmail.com">martin.erlic@gmail.com</a>. Customizations beyond the scope of the current platform can be estimated after a free quotation. Whatever you need, we will work to understand your requirements and make it happen for you!
+Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:info@hypercycle.co">info@hypercycle.co</a>. Customizations beyond the scope of the current platform can be estimated after a free quotation. Whatever you need, we will work to understand your requirements and make it happen for you!
 
 <hr>
 
