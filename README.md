@@ -86,7 +86,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 
 ### 3.2 DroneSkinz®
 
-| ![alt tag](https://cdn.shopify.com/s/files/1/0251/4837/t/3/assets/logo.png?11570305125073759710) |
+| ![alt tag](http://www.elgami.com/images/droneskinz-logo.png) |
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/droneskinz">@droneskinz</a> |
 
