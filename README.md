@@ -58,18 +58,19 @@ Interested partners may license Hypercycle's social marketplace technology to en
 
 * Social Network
 * Design custom products, i.e. T-shirts, Leggings, Skirts, etc.
+* New products are configurable
 * Customizable user profiles
 * Push notifications
 * Search & explore (Recommendation engine for products & users)
 * Users can earn a commision by designing products and sharing them
 * All purchase orders are stored in an organized customer database for manual order fulfillment
 * Additionally, orders can be connected to Printful (https://www.theprintful.com/) to automatically fulfill orders from a specified range of products with no manual work required, i.e. for storefront owners who do not have their own manufacturing printers/processes.
-* Some customers choose to sell "digital skins", or collections of purchasable patterns instead of supplying real products. This is another great revenue stream that requires no physical work.
+* Some customers choose to sell "digital skins", or collections of purchasable patterns instead of supplying real products. This is another great revenue stream that does not require a manufacturing process.
 * Available platforms: Web, Android
-* Platforms coming soon: iOS (All licensees are eligible for a free iOS app and updates upon release).
+* Platforms coming soon: iOS (All current licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
 
-Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:info@hypercycle.co">info@hypercycle.co</a>. Customizations beyond the scope of the current platform can be estimated after a free quotation. Whatever you need, we will work to understand your requirements and make it happen for you!
+Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:info@hypercycle.co">info@hypercycle.co</a>. Product customizations beyond the scope of the current platform can be estimated after a free consultation. Whatever you need, we will work to understand your requirements and make it happen for you!
 
 <hr>
 
@@ -82,7 +83,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
 
-* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — Our own flapship application for demonstrating the Android app platform. Users can generate their own patterns, upload art or transfer photos to their favorite pair of leggings and more.
+* <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — Our own flapship application for demonstrating the Android app platform. Users can generate their own patterns, upload art or transfer photos to their favorite pair of leggings, crop tops and more.
 
 ### 3.2 DroneSkinz®
 
@@ -90,4 +91,4 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/droneskinz">@droneskinz</a> |
 
-* <a href="http://www.droneskinz.com">DroneSkinz®</a> — An Android application for custom user-generated racing drone skins (In development)
+* <a href="https://play.google.com/store/apps/details?id=com.hypercycle.droneskinner&hl=am">DroneSkinz®</a> — An Android application for custom user-generated racing drone skins.
