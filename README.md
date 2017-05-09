@@ -24,8 +24,6 @@ Back in the day, c. 2001-02, having a dynamic blog with posts that could be gene
 
 Believe it or not, it doesn't take a giant factory to offer this kind of platform. Firms with as few as 10 employees are capable of providing customization services for both common and niche products alike, such as swimwear (http://www.postcardswimwear.com/) or racing drone skins (http://www.droneskinz.com), but often lack the technological means to deliver the product creation portion of their fulfillment service to their customers, i.e. their front-end application. This is why I created the Hypercycle social network, to help manufacturers of customized goods build up and leverage their own communities of artists, designers, and promoters to grow their brand. By constrast, brands that lack manufacturing capacity themselves can tap into various order fulfillment APIs, such as Printful's Orders API (https://www.theprintful.com/docs/orders) to sell customizable products without having to own a printer or understand the technical details of the order fulfillment process.
 
-Currently, monetization is limited to native Facebook advertisements and clothing purchases. Until further notice, almost 100% of all proceeds are directly reinvested into Hypercycle software and product development. If you love Hypercycle and want to buy us some coffee, send some beans this a-way: https://www.paypal.me/hypercycle
-
 | ![alt tag](http://www.elgami.com/images/hypercycle-car.jpg) |
 |-----------------------------------------------------------------------------|
 | Why stop at clothing? Hypercycle Supercar designed by <a href="https://ca.linkedin.com/in/parker-langlois-02592bb5">Parker Langlois</a> |
@@ -56,19 +54,19 @@ development and mega sales guy, VR fanatic, Dreamer, Empire Builder
 
 Interested partners may license Hypercycle's social marketplace technology to enhance their own community's retail ecosystem and product offerings. Features include:
 
-* Social Network
+* Social Network, i.e. likes, comments, followers, messaging
 * Design custom products, i.e. T-shirts, Leggings, Skirts, etc.
-* New products are configurable
+* Ability to add to custom products quickly
 * Customizable user profiles
 * Push notifications
-* Search & explore (Recommendation engine for products & users)
+* Search & explore (Recommendation engine and search filtering for products & designers)
 * Users can earn a commision by designing products and sharing them
 * All purchase orders are stored in an organized customer database for manual order fulfillment
 * Additionally, orders can be connected to Printful (https://www.theprintful.com/) to automatically fulfill orders from a specified range of products with no manual work required, i.e. for storefront owners who do not have their own manufacturing printers/processes.
 * Some customers choose to sell "digital skins", or collections of purchasable patterns instead of supplying real products. This is another great revenue stream that does not require a manufacturing process.
 * Available platforms: Web, Android
 * Platforms coming soon: iOS (All current licensees are eligible for a free iOS app and updates upon release).
-* Lifetime core software updates and access to new platforms upon release (Android VR, Carmel, etc.).
+* Lifetime core software updates and access to new platforms upon release (Android VR, React VR, Carmel, etc.).
 
 Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:info@hypercycle.co">info@hypercycle.co</a>. Product customizations beyond the scope of the current platform can be estimated after a free consultation. Whatever you need, we will work to understand your requirements and make it happen for you!
 
