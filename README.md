@@ -15,7 +15,7 @@ The Hypercycle social network was first launched on December 19, 2014. It is tru
 
 <hr>
 
-<a name="vision"/>
+<a name="vision"></a>
 ## 0.0 Vision
 
 Hypercycle's vision is to democratize design the world over by **connecting everyone with makers**.
@@ -42,7 +42,7 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 
 <hr>
 
-<a name="team"/>
+<a name="team"></a>
 ## 1.0 Team
 * <a href="https://www.github.com/santafebound">Martin Erlic</a> (CEO) - Self-taught Complexity theorist, Software dev, algorithmic artist, Mad scientist, Visionary
 * <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> (COO) - 
@@ -51,7 +51,7 @@ development and mega sales guy, VR fanatic, Dreamer, Empire Builder
 
 <hr>
 
-<a name="licensing"/>
+<a name="licensing"></a>
 ## 2.0 Licensing
 
 Interested partners may license Hypercycle's social marketplace technology to enhance their own community's retail ecosystem and product offerings. Features include:
@@ -74,7 +74,7 @@ Licensing costs typically start at 5% of net revenue but are negotiable as a fun
 
 <hr>
 
-<a name="customers"/>
+<a name="customers"></a>
 ## 3.0 Customers
 
 ### 3.1 Elgami - Custom Clothing
