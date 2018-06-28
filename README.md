@@ -5,7 +5,7 @@ The Hypercycle social network was first launched on December 19, 2014. It is tru
 
 | ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/0_-UdxBgUfZaJO7BVm.jpg) | ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/0_zXyym8mB3cx2Xmzs.jpg) |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Artwork by ELGAMI | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
+| Artwork by <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en_CA">ELGAMI</a> | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
 
 # Table of Contents  
 * [0.0 Vision](#vision)
@@ -26,7 +26,7 @@ Believe it or not, it doesn't take a giant factory to offer this kind of platfor
 
 | ![alt tag](http://www.elgami.com/images/hypercycle-car.jpg) |
 |-----------------------------------------------------------------------------|
-| Why stop at clothing? Hypercycle Supercar designed by <a href="https://ca.linkedin.com/in/parker-langlois-02592bb5">Parker Langlois</a> |
+| Why stop at clothing? Hypercycle Supercar designed by <a href="http://www.parkerlanglois.net/">Parker Langlois</a> |
 
 We at Hypercycle believe that everyone should be able to have their say when it comes to designing the products they love. So why stop at clothing? Currently, Hypercycle connects designers of original art with producers of all-over sublimation print and screen-printed apparel, including yoga pants, t-shirts, racing drone skins, sweatshirts, and more. For the less artistically inclined, our users are able to leverage simple procedural algorithms to create wild and whacky pieces of art with just a swipe and a tap. I can only imagine what we come up with next.
 
@@ -78,7 +78,7 @@ Please send all business inquiries to <a href="mailto:merlic@selotec.io">merlic@
 
 | <img src="https://github.com/SeloSlav/hypercycle/blob/master/images.jpg"> |
 |-----------------------------------------------------------------------------|
-| Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
+| Instagram: <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en_CA">@elgamiapp</a> |
 
 * <a href="https://play.google.com/store/apps/details?id=com.elgami.customizer&hl=en">Elgami - Custom Clothing</a> — Our own flapship application for demonstrating the Android app platform. Users can generate their own patterns, upload art or transfer photos to their favorite pair of leggings, crop tops and more.
 
