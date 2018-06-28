@@ -76,7 +76,7 @@ Please send all business inquiries to <a href="mailto:merlic@selotec.io">merlic@
 
 ### 3.1 Elgami - Custom Clothing
 
-| <img src="https://github.com/SeloSlav/hypercycle/blob/master/images.jpg" width="300"> |
+| <img src="https://github.com/SeloSlav/hypercycle/blob/master/images.jpg"> |
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
 
