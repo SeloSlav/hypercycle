@@ -3,7 +3,7 @@
 # Hypercycle - A Social Network for Custom Clothing Design
 The Hypercycle social network was first launched on December 19, 2014. It is truly the labor of my love. I hope you will have fun playing around, and perhaps create something totally new as a result. More to the point, Hypercycle is a social marketplace for custom product design. It is a fun, easy way to create t-shirts and more. Hypercycle users can upload their art, share their designs with their friends, and open their own storefronts to sell their creations to the world.
 
-| ![alt tag](http://www.elgami.com/images/elgami-pattern.png) | ![alt tag](http://www.elgami.com/images/amarna-leggings.png) |
+| ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/0_-UdxBgUfZaJO7BVm.jpg) | ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/0_zXyym8mB3cx2Xmzs.jpg) |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Artwork by ELGAMI | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
 
@@ -34,7 +34,7 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 
 * ###### Statista. 2016. Statistics and Facts about Global E-Commerce. http://www.statista.com/topics/871/online-shopping/
 
-| ![alt tag](http://www.elgami.com/images/687474703a2f2f7777772e656c67616d692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031352f31302f626c6f672d696d6167652d372e706e67.png) |
+| ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/1_-0rXPSR6nxLYFYEE5bkaug.png) |
 |-----------------------------------------------------------------------------|
 | Capri Leggings designed in Hypercycle™. Model: Kayla DeLancey (https://www.instagram.com/kayladelancey/), photographed by Bryon Adkins (https://www.instagram.com/badkinsmedia/) |
 
