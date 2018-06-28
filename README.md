@@ -76,7 +76,7 @@ Please send all business inquiries to <a href="mailto:merlic@selotec.io">merlic@
 
 ### 3.1 Elgami - Custom Clothing
 
-| <img src="http://www.elgami.com/images/elgami-logo.png" width="300"> |
+| <img src="https://github.com/SeloSlav/hypercycle/blob/master/images.jpg" width="300"> |
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/elgamiapp">@elgamiapp</a> |
 
@@ -84,7 +84,7 @@ Please send all business inquiries to <a href="mailto:merlic@selotec.io">merlic@
 
 ### 3.2 DroneSkinz®
 
-| ![alt tag](http://www.elgami.com/images/droneskinz-logo.png) |
+| ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/droneskinz.jpg) |
 |-----------------------------------------------------------------------------|
 | Instagram: <a href="https://www.instagram.com/droneskinz">@droneskinz</a> |
 
