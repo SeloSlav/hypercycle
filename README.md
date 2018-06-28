@@ -5,7 +5,7 @@ The Hypercycle social network was first launched on December 19, 2014. It is tru
 
 | ![alt tag](http://www.elgami.com/images/elgami-pattern.png) | ![alt tag](http://www.elgami.com/images/amarna-leggings.png) |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Artwork by ELGAMI: http://www.elgami.com/#/elgami | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
+| Artwork by ELGAMI | Model: Amarna Miller (https://www.instagram.com/amarnamiller/) |
 
 # Table of Contents  
 * [0.0 Vision](#vision)
@@ -22,7 +22,7 @@ Hypercycle's vision is to democratize design the world over by **connecting ever
 
 Back in the day, c. 2001-02, having a dynamic blog with posts that could be generated from a simple GUI blew most people's minds. I make no exaggeration when I say that as a twelve year old I literally had the coolest website within a 5 mile radius. So what problem did Content Management Systems ultimately solve? Obviously, millions of people love to write, but at the time they lacked a medium with which to share their ideas effectively on the web without having to learn all sorts of boring and Byzantine code. Then came WordPress. Why should delivering a mobile storefront for personalized goods be any different? According to MIT's Smart Customization Group, mass customization will be a $37.5B industry by 2020 in the US alone, with 15% of clothing purchased by Americans being customized (Bain & Company, 2016); applying this same logic to worldwide B2C e-commerce apparel sales, a few crude assumptions and a rough estimate later, suggests a total market size of $294B (Statista, 2016).
 
-Believe it or not, it doesn't take a giant factory to offer this kind of platform. Firms with as few as 10 employees are capable of providing customization services for both common and niche products alike, such as swimwear (http://www.postcardswimwear.com/) or racing drone skins (http://www.droneskinz.com), but often lack the technological means to deliver the product creation portion of their fulfillment service to their customers, i.e. their front-end application. This is why I created the Hypercycle social network, to help manufacturers of customized goods build up and leverage their own communities of artists, designers, and promoters to grow their brand. By constrast, brands that lack manufacturing capacity themselves can tap into various order fulfillment APIs, such as Printful's Orders API (https://www.theprintful.com/docs/orders) to sell customizable products without having to own a printer or understand the technical details of the order fulfillment process.
+Believe it or not, it doesn't take a giant factory to offer this kind of platform. Firms with as few as 10 employees are capable of providing customization services for both common and niche products alike, such as swimwear (http://www.postcardswimwear.com/) or racing drone skins (http://www.droneskinz.com), but often lack the technological means to deliver the product creation portion of their fulfillment service to their customers, i.e. their front-end application. This is why we created the Hypercycle social network, to help manufacturers of customized goods build up and leverage their own communities of artists, designers, and promoters to grow their brand. By constrast, brands that lack manufacturing capacity themselves can tap into various order fulfillment APIs, such as Printful's Orders API (https://www.theprintful.com/docs/orders) to sell customizable products without having to own a printer or understand the technical details of the order fulfillment process.
 
 | ![alt tag](http://www.elgami.com/images/hypercycle-car.jpg) |
 |-----------------------------------------------------------------------------|
@@ -42,10 +42,9 @@ We at Hypercycle believe that everyone should be able to have their say when it 
 
 <a name="team"></a>
 ## 1.0 Team
-* <a href="https://www.github.com/santafebound">Martin Erlic</a> (CEO) - Self-taught Complexity theorist, Software dev, algorithmic artist, Mad scientist, Visionary
-* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> (COO) - 
-development and mega sales guy, VR fanatic, Dreamer, Empire Builder
-* <a href="http://www.parkerlanglois.net/">Parker Langlois</a> (VP Design) - Design-obssessed product architect, Supercar enthusiast, Designs yachts for a living (no hype)
+* <a href="https://www.github.com/seloslav">Martin Erlic</a> (CEO) - Self-taught Complexity theorist. Software dev. Algorithmic artist. Mad scientist. Visionary.
+* <a href="https://www.linkedin.com/in/jureerlic">Jure Erlic</a> (COO) - Business Development. Mega sales guy. VR fanatic. Dreamer. Empire Builder
+* <a href="http://www.parkerlanglois.net/">Parker Langlois</a> (VP Design) - Design-obssessed product architect. Supercar enthusiast. Designs yachts for a living (no hype).
 
 <hr>
 
@@ -68,7 +67,7 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Platforms coming soon: iOS (All current licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, React VR, Carmel, etc.).
 
-Licensing costs typically start at 5% of net revenue but are negotiable as a function of volume. Please send all business inquiries to <a href="mailto:info@hypercycle.co">info@hypercycle.co</a>. Product customizations beyond the scope of the current platform can be estimated after a free consultation. Whatever you need, we will work to understand your requirements and make it happen for you!
+Please send all business inquiries to <a href="mailto:merlic@selotec.io">merlic@selotec.io</a>. Product customizations beyond the scope of the current platform can be estimated after a free consultation. Whatever you need, we will work to understand your requirements and make it happen for you!
 
 <hr>
 
