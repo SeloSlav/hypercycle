@@ -1,7 +1,7 @@
 ![alt tag](https://gallery.mailchimp.com/d793ae062926c63262e96e99c/images/4367f220-3a28-4ad4-9e9b-f7055f4ed9cd.png)
 
 # Hypercycle - A Social Network for Custom Clothing Design
-The Hypercycle social network was first launched on December 19, 2014. It is truly the labor of my love. I hope you will have fun playing around, and perhaps create something totally new as a result. More to the point, Hypercycle is a social marketplace for custom product design. It is a fun, easy way to create t-shirts and more. Hypercycle users can upload their art, share their designs with their friends, and open their own storefronts to sell their creations to the world.
+The Hypercycle social network was first launched on December 19, 2014. It is truly the labor of my love. Hypercycle is a social marketplace for custom product design. It is a fun, easy way to create t-shirts and more. Hypercycle users can upload their art, share their designs with their friends, and open their own storefronts to sell their creations to the world.
 
 | ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/0_-UdxBgUfZaJO7BVm.jpg) | ![alt tag](https://github.com/SeloSlav/hypercycle/blob/master/0_zXyym8mB3cx2Xmzs.jpg) |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
