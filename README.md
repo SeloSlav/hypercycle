@@ -67,8 +67,6 @@ Interested partners may license Hypercycle's social marketplace technology to en
 * Platforms coming soon: iOS (All current licensees are eligible for a free iOS app and updates upon release).
 * Lifetime core software updates and access to new platforms upon release (Android VR, React VR, Carmel, etc.).
 
-Please send all business inquiries to <a href="mailto:merlic@selotec.io">merlic@selotec.io</a>. Product customizations beyond the scope of the current platform can be estimated after a free consultation. Whatever you need, we will work to understand your requirements and make it happen for you!
-
 <hr>
 
 <a name="customers"></a>
